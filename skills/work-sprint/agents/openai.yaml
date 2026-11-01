@@ -1,0 +1,3 @@
+interface:
+  display_name: "Work Sprint"
+  short_description: "Do the next task of a sprint and write it back; built for /loop"

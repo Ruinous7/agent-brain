@@ -1,0 +1,3 @@
+interface:
+  display_name: "To Sprint"
+  short_description: "Plan SPRINT.md plus ordered EPIC files, centred on What Dor Wants"
